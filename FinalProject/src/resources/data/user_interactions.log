@@ -1,0 +1,47 @@
+[2025-05-02 06:12:48] User selected option: 1
+[2025-05-02 06:13:46] User selected option: 2
+[2025-05-02 06:16:37] User selected option: 1
+[2025-05-02 06:17:42] LibraryMenu initialized
+[2025-05-02 06:17:42] Library loaded from text file
+[2025-05-02 06:17:42] Menu displayed
+[2025-05-02 06:17:46] User viewed all books
+[2025-05-02 06:18:01] User sorted books by author
+[2025-05-02 06:18:22] User sorted books by publication year
+[2025-05-02 06:18:59] User selected option: 1
+[2025-05-02 06:19:15] User selected option: 5
+[2025-05-02 06:19:43] LibraryMenu initialized
+[2025-05-02 06:19:43] Library loaded from text file
+[2025-05-02 06:19:43] Menu displayed
+[2025-05-02 06:19:48] User sorted books by publication year
+[2025-05-02 06:20:01] User searched for 'gat' - found
+[2025-05-02 06:20:09] User searched for 'po' - not found
+[2025-05-02 06:23:48] LibraryMenu initialized
+[2025-05-02 06:23:48] Library loaded from text file
+[2025-05-02 06:23:48] Menu displayed
+[2025-05-02 06:25:41] LibraryMenu initialized
+[2025-05-02 06:25:41] Library loaded from text file
+[2025-05-02 06:25:41] Menu displayed
+[2025-05-02 06:27:58] LibraryMenu initialized
+[2025-05-02 06:27:58] Library loaded from serialized file
+[2025-05-02 06:27:58] Menu displayed
+[2025-05-02 06:28:10] User viewed all books
+[2025-05-02 06:28:51] LibraryMenu initialized
+[2025-05-02 06:28:51] Library loaded from serialized file
+[2025-05-02 06:28:51] Menu displayed
+[2025-05-02 06:32:40] LibraryMenu initialized
+[2025-05-02 06:32:40] Library loaded from serialized file
+[2025-05-02 06:32:40] Menu displayed
+[2025-05-02 06:33:13] LibraryMenu initialized
+[2025-05-02 06:33:13] Library loaded from serialized file
+[2025-05-02 06:33:13] Menu displayed
+[2025-05-02 07:09:55] LibraryMenu initialized
+[2025-05-02 07:09:55] Library loaded from serialized file
+[2025-05-02 07:09:55] Menu displayed
+[2025-05-02 07:12:09] LibraryMenu initialized
+[2025-05-02 07:12:09] Library loaded from serialized file
+[2025-05-02 07:12:09] Menu displayed
+[2025-05-02 07:12:23] User searched for 'gat' - found
+[2025-05-02 07:12:28] User viewed all books
+[2025-05-02 07:12:32] User sorted books by title
+[2025-05-02 07:12:40] User sorted books by author
+[2025-05-02 07:12:46] User sorted books by publication year
